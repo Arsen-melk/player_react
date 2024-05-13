@@ -1,0 +1,22 @@
+
+
+.add-all{
+    padding: 10px;
+    font-size: 20px;
+    
+}
+
+.down-icon,.plus-icon{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.add-all-button{
+    border-radius: 5px;
+    
+}
+
+
+.btn{
+    border: 1px solid #fff;
+}

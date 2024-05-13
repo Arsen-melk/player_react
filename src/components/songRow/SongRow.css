@@ -1,0 +1,25 @@
+.song-row{   
+     display: flex;
+     justify-content:space-between;
+     align-items: center;
+     border-bottom: 1px solid rgba(202, 197, 197, 0.636);
+     margin-bottom: 50px;
+}
+
+
+
+.data-item h4{
+        max-width: 200px;
+        text-align: start;
+}
+
+.list-icon,.circle-icon{
+        font-size: 20px;
+        padding-left: 10px;
+}
+
+.icon-data{
+        font-size: 20px;
+        padding-right: 10px;
+}
+

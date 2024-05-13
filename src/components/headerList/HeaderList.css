@@ -1,0 +1,38 @@
+.header-list{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #08389851;
+    color: #fff;
+    height: 50px;
+    border-radius: 5px 0 0 5px;
+}
+
+.header-list-item{
+    border-left: 2px solid #fff;
+
+}
+
+.song{
+    width: 35%;   
+    
+}
+
+.artist{
+    width: 30%;
+  
+    
+}
+.track{
+    border-right: 2px solid #fff;
+    width: 19%;
+}
+.empty{
+    border:none;
+    width: 7%;
+}
+.empty_{
+    width: 13%;
+    border:none;
+}

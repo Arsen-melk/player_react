@@ -1,0 +1,40 @@
+.trackNum{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form-btn{
+    border-radius: 5px;
+}
+.reverse-icon{
+    cursor: pointer;
+}
+.track-str{
+    padding: 10px;
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .form-btn{
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .track-str{
+        font-size: 12px;
+        }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .form-btn{
+        font-size: 12px;
+        }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .down-icon{
+        display: none;
+        }
+  }

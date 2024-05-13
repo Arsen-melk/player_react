@@ -1,0 +1,55 @@
+.play-music{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.play-all{
+   font-size: 20px;
+   padding: 10px;
+   
+
+}
+.play-all-button{
+    border-radius: 5px;
+}
+
+.down-icon-first{
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.down-button{
+    border-radius: 2px;
+}
+.play-icon{
+    cursor: pointer;
+}
+
+.btn{
+    color: rgb(69, 74, 139);
+}
+
+.audio{
+    width: 250px;
+    height: 30px;
+}
+
+.prev-button, .next-button{
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+    .play-all{
+        font-size: 12px;
+        }
+  }
+
+
+@media only screen and (max-width: 600px) {
+    .audio{
+        width: 120px;
+        height: 20px;
+        }
+  }
